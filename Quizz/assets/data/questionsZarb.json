@@ -1,0 +1,44 @@
+{
+"questions": [
+    {
+        "title": "Quel est le meilleur cocktail? \n",
+        "answers": ["Le Staline", "Le Lenine", "Le Molotov"],
+        "goodAnswerIndex": 2
+    },
+    {
+        "title": "Quand eut lieu l'invasion des Huns ?",
+        "answers": ["1111", "en l'an 0", "en l'an Hun"],
+        "goodAnswerIndex": 0
+    },
+    {
+        "title": "Combien de membres compte le \n clan des Nimbelunghen?",
+        "answers": ["362", "1008", "Je ne sais pas"],
+        "goodAnswerIndex": 2
+    },
+    {
+        "title": "Quelle affirmation est incorrecte?",
+        "answers": ["La terre tourne autour du soleil", "2+2 = 4", "42 est la réponse universelle"],
+        "goodAnswerIndex": 1
+    },
+    {
+        "title": "If two witches watch two watches \n Which witch watch which watch?",
+        "answers": ["Witch one has a watch", "witch two has a watch", "each witch has a watch "],
+        "goodAnswerIndex": 2
+    },
+    {
+        "title": "X² et Y² sont sur une barque \n Y² tombe à l'eau... \n Que reste-t-il sur la barque?",
+        "answers": ["2X", "X²", "Y²"],
+        "goodAnswerIndex": 0
+    },
+    {
+        "title": "Quelle était la raponse à la question 2?",
+        "answers": ["1111", "Je ne sais pas", "Le Molotov "],
+        "goodAnswerIndex": 0
+    },
+    {
+        "title": "Ue signifie SPRL?",
+        "answers": ["Société Protectrice des Ratons Laveaurs", "Société Privrée à Responsabilité Limitée", "Société Privée à Richesse Limitée"],
+        "goodAnswerIndex": 1
+    }
+]
+}
