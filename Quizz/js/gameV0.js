@@ -53,8 +53,8 @@ let quizz = { "questions": [
 
 function preload() {
     this.load.image('background', './assets/Sprites/background.png');
-    this.load.image('labelquestion', './assets/Sprites/label1.png');
-    this.load.image('labelanswer', './assets/Sprites/label2.png');
+    this.load.image('labelquestion', './assets/Sprites/Label1.png');
+    this.load.image('labelanswer', './assets/Sprites/Label2.png');
     this.load.json('questions', './assets/data/questionsZarb.json');
     this.load.image('playButton', './assets/Sprites/Play.png');
     this.load.image('starImage', './assets/Sprites/Star.png');
